@@ -1,4 +1,4 @@
-# s11111_2025.py
+# s28920_2025.py
 # ---------------------------------------------------------
 # Purpose:
 # This program generates a random DNA nucleotide sequence
